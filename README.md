@@ -4,6 +4,7 @@
 ## Group member:
 * ### 407840288/陳彥霖 - GGbby
 * ### 407840130/饒巧天 - Tenderflash
+* ### 407840296/郝郁平 - catisyo
 
 ###### The details include:
 * A member system that can register by gmail
