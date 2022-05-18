@@ -5,5 +5,5 @@
 ###### The details include:
 * A member system that can register by gmail
 * A chatting application environment
-  * should set email by php
-  * should have a clean front end
+  *-[ ] should set email by php
+  *-[ ] should have a clean front end
