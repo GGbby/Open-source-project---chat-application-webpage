@@ -3,7 +3,7 @@
 
 ## Group member:
 * ### 407840288/陳彥霖 - GGbby
-* ### 407840130/饒巧天 - Tenddder flash
+* ### 407840130/饒巧天 - Tenderflash
 
 ###### The details include:
 * A member system that can register by gmail
