@@ -9,5 +9,6 @@
 ###### The details include:
 * A member system that can register by gmail
 * A chatting application environment
+  * -[ ] set up a back end side with 
   * -[ ] should send email by php
   * -[ ] should have a clean front end
