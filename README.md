@@ -7,6 +7,7 @@
 * ### 407840296/郝郁平 - catisyo
 #### ERD diagram:
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/b554754c05a738a34ed2737b93973e92a8f53cf3/doc/schema_design/ERD_ver1.png" width="800" height="400">
+
 ###### The details include:
 * A member system that can register by gmail
 * A chatting application environment
