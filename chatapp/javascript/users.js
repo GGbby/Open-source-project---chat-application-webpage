@@ -45,7 +45,6 @@ setInterval(()=>{
                 if (!searchBar.classList.contains("active")) {//if active active not contains in search bar then add this data
                     usersList.innerHTML = data;
                 }
-                usersList.innerHTML = data;
             }
         }
     }
