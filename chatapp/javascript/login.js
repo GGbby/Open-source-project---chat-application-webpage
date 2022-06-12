@@ -16,13 +16,13 @@ continueBtn.onclick = ()=>{
                 let data = xhr.response;
                 //calling the resault without reload page
                 console.log(data);
-                // if (data == "success") {
-                //     location.href = "users.php";
-                // }else{
-                //     errorText.textContent = data;
-                //     errorText.style.display = "block";
+                if (data == "success") {
+                    location.href = "users.php";
+                }else{
+                    errorText.textContent = data;
+                    errorText.style.display = "block";
                     
-                // }
+                }
             }
         }
     }
