@@ -1,7 +1,7 @@
 <?php   
     session_start();
-    if (!sset($_SESSION['unique_id'])) {
-        //header("loaction: ../login.php");
+    if (!isset($_SESSION['unique_id'])) {
+        header("location: ../login.php");
     }
 ?>
 
@@ -11,7 +11,7 @@
         <section class="users">
             <header>
                 <?php
-                    session_start();
+                    
                 ?>
                 <div class="content">
                     <img src="img.jpg" alt="">
