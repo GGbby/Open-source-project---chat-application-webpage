@@ -8,7 +8,6 @@
     $sql = mysqli_query($conn, "SELECT * FROM users WHERE NOT unique_id = {$outgoing_id} AND (fname LIKE '%{$searchTerm}%' OR lname LIKE '%{$searchTerm}%')");//need to add " fname lname FROM " behind SELECT
     if (mysqli_num_rows($sql) > 0) {
         include "data.php";
-        $output .= "Users have found";
     }else {
         $output .= "No users have found";//if no user in search name it will show no found
     }
