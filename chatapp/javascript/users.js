@@ -11,6 +11,12 @@ searchBtn.onclick = ()=>{
 
 searchBar.onkeyup = () =>{//getting user search value
     let searchTerm = searchBar.value;
+    //run the sentinterval ajax only if there is no active class
+    if (searchTerm != "") {
+        searchBar.classList.add("active");
+    }else{
+        searchBar.classList.remove("active");
+    }
     //Ajax start
     let xhr = new XMLHttpRequest(); //creating XML object
     xhr.open("POST", "php/search.php", true);
@@ -19,7 +25,7 @@ searchBar.onkeyup = () =>{//getting user search value
             if (xhr.status === 200) {
                 let data = xhr.response;
                 //calling the resault without reload page
-                console.log(data);
+                usersList.innerHTML = data;
             }
         }
     }
@@ -36,6 +42,9 @@ setInterval(()=>{
             if (xhr.status === 200) {
                 let data = xhr.response;
                 //calling the resault without reload page
+                if (!searchBar.classList.contains("active")) {//if active active not contains in search bar then add this data
+                    usersList.innerHTML = data;
+                }
                 usersList.innerHTML = data;
             }
         }
