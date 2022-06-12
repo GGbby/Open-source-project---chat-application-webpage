@@ -5,7 +5,7 @@
     $lname = mysqli_real_escape_string($conn, $_POST['lname']);
     $email = mysqli_real_escape_string($conn, $_POST['email']);
     $password = mysqli_real_escape_string($conn, $_POST['password']);
-    $conn=mysqli_connect("localhost","root",'',"chat"); //have to define conn or line 13 will error
+    //$conn=mysqli_connect("localhost","root",'',"chat"); //$conn have defined in config.php
 
     if (!empty($fname) && !empty($lname) && !empty($email) && !empty($password)) {
         //check the email is valid or not
