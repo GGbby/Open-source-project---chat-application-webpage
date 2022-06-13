@@ -47,4 +47,4 @@ type `git clone https://github.com/GGbby/Open-source-project---chat-application-
 Go to a browser. And go to the localhost of this project. It should be like:`http://localhost/Open-source-project---chat-application-webpage/`
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/onb1.png)
 
-Now join the app, explore yourself or go to our [Users manual](manuals\directory\Users manual.md)
+### Now join the app, explore yourself or go to our [Users manual](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/67eb2ecc164b802cd182967bbc31c29ab38fecf4/chatapp/manuals/directory/Users%20manual.md)
