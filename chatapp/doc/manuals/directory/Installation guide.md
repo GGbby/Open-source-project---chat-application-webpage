@@ -1,9 +1,9 @@
 # The installation guide
 
-## 1. Set up the server side with XMAPP
-## 2. Create table
-## 3. Clone this repository
-## 4. Start the application
+1. Set up the server side with XMAPP
+2. Create table
+3. Clone this repository
+4. Start the application
 
 
 
