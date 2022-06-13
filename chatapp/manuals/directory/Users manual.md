@@ -26,5 +26,5 @@
 
 
 ## Database
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/8.png" width="800" height="800">
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/9.png" width="800" height="800">
+<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/8.png" width="1200" height="800">
+<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/9.png" width="1200" height="800">
