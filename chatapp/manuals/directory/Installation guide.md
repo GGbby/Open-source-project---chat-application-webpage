@@ -15,12 +15,14 @@ If there is still problem on installing it. I suggest you go to this tutorial.�
 After finishing installing it, I had some problem on the permission of it. There is a way to solve it.👉[Go here](https://errerrors.blogspot.com/2018/11/how-to-fix-cannot-create-file-xampp-control-ini.html)👈 It is actually just giving XMAPP a permission to write-in. On my computer the default setting didn't give the write-in permission to it. And it will crash when I quit XMAPP.
 
 So, now we should have the XMAPP installed. And we now have to open the XMAPP control panel and turn on the Apache and MySQL.
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/xmapp1.png)
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/xmapp1.png" width="800" height="400">
 
 And then go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) on your browser and create a database call ```chat```.
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg1.png" width="800" height="400">
 
 Then set up two tables name ```users```, and ```messages```. For ```users``` needs to set up `7` columns. And ```messages``` with `4` columns. And the elements are show below.
+
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg2.png" width="800" height="400">
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg3.png" width="800" height="400">
 👇This is the elements👇
