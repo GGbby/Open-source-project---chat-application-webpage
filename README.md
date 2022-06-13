@@ -1,5 +1,5 @@
 # Open-source-project---chat-application-webpage
-## This project's description is in doc/proj_description
+## This project's description is in [doc/proj_description](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/8f8943a6840cbf7ba848a706ea403628d0fce2ab/chatapp/doc/proj_description/project_description.md)
 
 ## Group members:
 * ### 407840288/陳彥霖 - GGbby
@@ -16,6 +16,6 @@
   * -[x] set up javascript for the front end animation
   * -[x] set up ajax for the signup and login function
   * -[x] create database and tables
-  * -[x] create php code for a bunch of things like signup, login form,  chat message, password encrypted, etc
-  * -[ ] make the users page and chat area dynamic
-  * -[ ] php code for logout
+  * -[x] create php code for a bunch of things like signup, login form,  chat message, etc
+  * -[x] make the users page and chat area dynamic
+  * -[x] php code for logout
