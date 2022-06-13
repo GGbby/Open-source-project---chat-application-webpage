@@ -1,7 +1,7 @@
 # Open-source-project---chat-application-webpage
 ## 👊👊👊This project's description is in [chatapp\doc\proj_description](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/8f8943a6840cbf7ba848a706ea403628d0fce2ab/chatapp/doc/proj_description/project_description.md)
 
-## 💪💪💪How to use this, visit👉 [chatapp\doc\manuals\directory\Installation guide.md](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/3a061911c21fd0620aacd615629f6e9edb7107fc/chatapp/doc/manuals/directory/Installation%20guide.md)
+## 💪💪💪How to use this, visit👉 [chatapp\doc\manuals\directory\Installation guide.md](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/85fb320c6c7dab46491c8dd8181fe2cc59507cf7/chatapp/doc/manuals/directory/Installation%20guide.md)
 
 ## 🤓🤓🤓Demo, visit👉 [chatapp\doc\manuals\directory\Users manual.md](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/3a061911c21fd0620aacd615629f6e9edb7107fc/chatapp/doc/manuals/directory/Users%20manual.md)
 
