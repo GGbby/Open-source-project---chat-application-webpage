@@ -16,23 +16,22 @@ After finishing installing it, I had some problem on the permission of it. There
 
 So, now we should have the XMAPP installed. And we now have to open the XMAPP control panel and turn on the Apache and MySQL.
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/xmapp1.png)
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/xmapp1.png" width="800" height="400">
 
 And then go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) on your browser and create a database call ```chat```.
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg1.png" width="800" height="400">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg1.png)
+
 
 Then set up two tables name ```users```, and ```messages```. For ```users``` needs to set up `7` columns. And ```messages``` with `4` columns. And the elements are show below.
 
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg2.png" width="800" height="400">
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg3.png" width="800" height="400">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg2.png)
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg3.png)
 👇This is the elements👇
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg5.png" width="800" height="400">
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg7.png" width="800" height="400">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg5.png)
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg7.png)
 
 After setting the users table, there is still some setting. Press the ```GO``` button below. And create a new column call `status` after `img`. 
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg4.png" width="800" height="400">
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg6.png" width="800" height="400">
-
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg4.png)
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg6.png)
 
 
 ### Now we have to clone the repository:
@@ -47,6 +46,6 @@ type `git clone https://github.com/GGbby/Open-source-project---chat-application-
 
 ### Now you should have the whole stuff ready:
 Go to a browser. And go to the localhost of this project. It should be like:`http://localhost/Open-source-project---chat-application-webpage/`
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/onb1.png" width="800" height="400">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/onb1.png)
 
 Now join the app, explore yourself or go to our [Users manual](manuals\directory\Users manual.md)
