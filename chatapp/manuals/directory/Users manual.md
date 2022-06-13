@@ -2,29 +2,29 @@
 
 ## Sign Up (input data)
 
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/1.png" width="800" height="600">
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/2.png" width="800" height="600">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/1.png)
+
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/2.png)
 
 ## User List
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/3.png" width="800" height="600">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/3.png)
 
 
 ## Select Chatmate
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/4.png" width="800" height="600">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/4.png)
 
 
 ## Chat
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/5.png" width="800" height="600">
-
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/5.png)
 
 ## Log Out
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/6.png" width="800" height="600">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/6.png)
 
 
 ## Log in
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/7.png" width="800" height="600">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/7.png)
 
 
 ## Database
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/8.png" width="2000" height="600">
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/afbbf57f20d9238f3b58e4d62d30c9159595538b/chatapp/manuals/directory/pic/9.png" width="2000" height="600">
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/8.png)
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/9.png)
