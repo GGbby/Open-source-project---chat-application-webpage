@@ -5,8 +5,6 @@
 3. Clone this repository
 4. Start the application
 
-
-
 ### Set up the server side:
 #### Intstall the XMAPP
 It is easy to install, just go to install the install package at [XMAPP's download page](https://www.apachefriends.org/zh_tw/download.html).
