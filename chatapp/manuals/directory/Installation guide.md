@@ -18,6 +18,7 @@ So, now we should have the XMAPP installed. And we now have to open the XMAPP co
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/xmapp1.png)
 
 And then go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) on your browser and create a database call ```chat```.
+
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg1.png)
 
 
@@ -27,6 +28,7 @@ Then set up two tables name ```users```, and ```messages```. For ```users``` nee
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg3.png)
 👇This is the elements👇
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg5.png)
+
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/chatapp/manuals/directory/pic/dbimg7.png)
 
 After setting the users table, there is still some setting. Press the ```GO``` button below. And create a new column call `status` after `img`. 
@@ -40,9 +42,6 @@ For example, I install it at `D:`. So my location is `D:\xampp\htdocs`.
 
 Go to the location and clone the repository.
 type `git clone https://github.com/GGbby/Open-source-project---chat-application-webpage.git`
-
-
-
 
 ### Now you should have the whole stuff ready:
 Go to a browser. And go to the localhost of this project. It should be like:`http://localhost/Open-source-project---chat-application-webpage/`
