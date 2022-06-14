@@ -13,7 +13,7 @@
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/93a7964d6067d8a0d3e72980a924b1c1292e3dee/doc/schema_design/ERD_ver1.png" width="800" height="400">
 
 ### Workflow:
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/schema_design/structure.png" width="800" height="400">
+<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/schema_design/structure.png">
 
 ### The details include:
 * A member system that can register by gmail
