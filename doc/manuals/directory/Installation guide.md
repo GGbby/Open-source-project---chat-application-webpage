@@ -42,7 +42,7 @@ Go to the location and clone the repository.
 type `git clone https://github.com/GGbby/Open-source-project---chat-application-webpage.git`
 
 ### Now you should have the whole stuff ready:
-Go to a browser. And go to the localhost of this project. It should be like:`http://localhost/Open-source-project---chat-application-webpage/`
-![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/pic/onb1.png)
+Go to a browser. And go to the localhost of this project. It should be like:`http://localhost/Open-source-project---chat-application-webpage/src`
+![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/93a7964d6067d8a0d3e72980a924b1c1292e3dee/doc/manuals/directory/pic/onb1.png)
 
 ### Now join the app, explore yourself or go to our [Users manual](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/Users%20manual.md)
