@@ -10,7 +10,7 @@
 * ### 407840130/饒巧天 - Tenderflash
 * ### 407840296/郝郁平 - catisyo
 ### ERD diagram:
-<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/93a7964d6067d8a0d3e72980a924b1c1292e3dee/doc/schema_design/ERD_ver1.png" width="800" height="400">
+<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/93a7964d6067d8a0d3e72980a924b1c1292e3dee/doc/schema_design/ERD_ver1.png" width="1000" height="500">
 
 ### Workflow:
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/schema_design/structure.png">
