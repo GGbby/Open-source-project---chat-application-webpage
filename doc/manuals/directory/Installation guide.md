@@ -15,7 +15,8 @@ After finishing installing it, I had some problem on the permission of it. There
 So, now we should have the XMAPP installed. And we now have to open the XMAPP control panel and turn on the Apache and MySQL.
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/pic/xmapp1.png)
 
-And then go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) on your browser and create a database call ```chat```. 
+And then go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) on your browser and create a database call ```chat```.
+
 Or download the chat-table and input to XMAPP [Download file](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/chat.sql)
 
 
