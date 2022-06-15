@@ -1,7 +1,7 @@
 # Chat application on webpage 
 ###### ☝(This is the project title)☝
 
-## Our motivation is to create a easy, light weight chat application on webpage for practice, and an experience for us to share to other people who is interset in web developing.
+## Our purpose is to create a easy chat application on webpage for practice, and an experience for us to share other people who is interest in web developing.
 ###### ☝(This is our motivation )☝
 
 ### The function we except is to:

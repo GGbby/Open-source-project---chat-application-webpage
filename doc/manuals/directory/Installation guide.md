@@ -17,6 +17,9 @@ So, now we should have the XMAPP installed. And we now have to open the XMAPP co
 
 And then go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) on your browser and create a database call ```chat```.
 
+Or download the chat-table and input to XMAPP [Download file](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/chat.sql)
+
+
 ![](https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/pic/dbimg1.png)
 
 
