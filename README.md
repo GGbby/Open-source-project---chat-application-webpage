@@ -14,6 +14,7 @@
 
 ### Workflow:
 <img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/schema_design/structure.png">
+<img src="https://github.com/GGbby/Open-source-project---chat-application-webpage/blob/main/doc/manuals/directory/pic/fc2.png">
 
 ### The details include:
 * A member system that can register by gmail
